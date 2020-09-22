@@ -6,5 +6,6 @@
     define ("DBUSERNAME","root");
     define ("DBPASSWORD","");
     define ("DBNAME","blog");
+    define ("POKUS",25);
     
 ?>
